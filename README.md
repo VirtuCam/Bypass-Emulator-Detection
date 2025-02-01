@@ -9,7 +9,8 @@
 ## 1️⃣ Magisk Image Flashing
 
 ### Steps:
-1. Vists [Rooting Emulator](https://t.me/c/2237658876/140)
+1. first Join [Virtucam](t.me/+A2jKvWBRh0plYjhk) because its a private channel then
+2. Vists [Rooting Emulator Video](https://t.me/c/2237658876/140) 
 
 ✅ Your device is now **rooted and ready**!
 
