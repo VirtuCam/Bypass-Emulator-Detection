@@ -9,25 +9,7 @@
 ## 1️⃣ Magisk Image Flashing
 
 ### Steps:
-1. Download and extract the **rootAVD** repository from [this link](https://github.com/newbit1/rootAVD).
-2. Open a terminal on your PC and navigate to the extracted directory.
-3. Run the command:
-   ```sh
-   ./rootAVD.sh
-   ```
-   This will list available commands.
-4. Run:
-   ```sh
-   ./rootAVD.sh ListAllAVDs
-   ```
-   Select the image matching your emulator's architecture type.
-5. After flashing, the emulator will reboot.
-6. Install Magisk by running:
-   ```sh
-   ./rootAVD.sh InstallApps
-   ```
-7. Start the Magisk app, grant permissions when prompted, and reboot the emulator.
-8. Enable **Zygisk** from Magisk settings and reboot again.
+1. Vists [Rooting Emulator](https://t.me/c/2237658876/140)
 
 ✅ Your device is now **rooted and ready**!
 
